@@ -1,5 +1,5 @@
 ---
-Category:
+Category: 
 Prep time:
 Cook time:
 Serving:
